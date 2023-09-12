@@ -12,4 +12,4 @@ posibles casos de prueba:
 # La al
 
 3.4 aca = true; acas = false; h = true
-# Finalmente se realizaron pruebas y se mejoró el código.
+# Finalmente se realizaron las pruebas y se mejoró el código; se volvió a probar y se dio por finalizado.
